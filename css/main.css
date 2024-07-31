@@ -1,0 +1,9 @@
+@charset "utf-8";
+body{
+
+}
+h1,h2{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
